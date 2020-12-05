@@ -1,8 +1,6 @@
 # Kusama gifs
 
-Free gifs for the Kusama community! 💖🐦
-
-**They're for you: download, use, and share them!**
+Free gifs for the Kusama community! 💖🐦 **They're for you:** download, use, and share them!
 
 
 🙏 Tips are welcome and help me make more!
