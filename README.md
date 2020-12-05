@@ -9,7 +9,6 @@ Free gifs for the Kusama community! 💖🐦
 Kusama address:
 E5HJe6GN8yKU2Xfq1TaUNHQABN2Q66SJ9vr6Y2tPgiMT9eG
 
-Create an issue or [tweet at @alxheller](https://twitter.com/alxheller) and let me know what new gifs you'd like to see. 🤗
 
 # ⭐ Kusama gold 
 Want your bird with some bling? Then the Kusama gold gif is for you. 
