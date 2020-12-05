@@ -4,10 +4,13 @@ Free gifs for the Kusama community! 💖🐦
 
 **They're for you: download, use, and share them!**
 
+
 🙏 Tips are welcome and help me make more!
 
 Kusama address:
 E5HJe6GN8yKU2Xfq1TaUNHQABN2Q66SJ9vr6Y2tPgiMT9eG
+
+-----
 
 
 # ⭐ Kusama gold 
