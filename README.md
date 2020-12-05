@@ -1,6 +1,6 @@
 # Kusama gifs
 
-💖🐦 Free gifs for the Kusama community!
+💖 Free gifs for the Kusama community!
 
 
 🙏 Tips are welcome and help me make more!
