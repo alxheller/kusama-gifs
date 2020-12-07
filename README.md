@@ -13,7 +13,7 @@ E5HJe6GN8yKU2Xfq1TaUNHQABN2Q66SJ9vr6Y2tPgiMT9eG
 # 🔮 Kusama plasma
 ![kusama-plasma](https://user-images.githubusercontent.com/5248378/101329133-44b36700-3871-11eb-8fd8-b01db4884981.gif)
 
-# 📐 Kusama resin
+# 🗿 Kusama resin
 ![kusama-resin](https://user-images.githubusercontent.com/5248378/101292184-38e28900-380e-11eb-9c07-b38cec5c6925.gif)
 
 # ⭐ Kusama gold 
