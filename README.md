@@ -17,6 +17,6 @@ E5HJe6GN8yKU2Xfq1TaUNHQABN2Q66SJ9vr6Y2tPgiMT9eG
 ![kusama-resin](https://user-images.githubusercontent.com/5248378/101292184-38e28900-380e-11eb-9c07-b38cec5c6925.gif)
 
 # ⭐ Kusama gold 
-![kusama-gold](https://user-images.githubusercontent.com/5248378/101242839-5aebe680-36fc-11eb-83d6-5df68951f702.gif)
+![kusama-gold](https://user-images.githubusercontent.com/5248378/101297076-4a845a80-3827-11eb-8233-77c2611148ec.gif)
 
 Anything you'd like to see? Let me know! 
