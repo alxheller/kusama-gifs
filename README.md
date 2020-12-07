@@ -15,6 +15,7 @@
 
 Are there any other gifs or styles you'd like to see? Create an issue or [tweet me](https://twitter.com/alxheller).
 
+----
 
 🤗 Tips are welcome and help me make more!
 
