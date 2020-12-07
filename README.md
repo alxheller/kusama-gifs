@@ -1,12 +1,6 @@
 # Kusama gifs
 
-💖 Free gifs for the Kusama community!
-
-
-🙏 Tips are welcome and help me make more!
-
-Kusama address:
-E5HJe6GN8yKU2Xfq1TaUNHQABN2Q66SJ9vr6Y2tPgiMT9eG
+💖 Free gifs for the Kusama community! Download, use, and share them to make cyberspace more Kusama-y! 🐦
 
 -----
 
@@ -19,7 +13,8 @@ E5HJe6GN8yKU2Xfq1TaUNHQABN2Q66SJ9vr6Y2tPgiMT9eG
 # ⭐ Kusama gold 
 ![kusama-gold](https://user-images.githubusercontent.com/5248378/101297076-4a845a80-3827-11eb-8233-77c2611148ec.gif)
 
-Anything you'd like to see? Let me know! 
+Are there any other gifs or styles you'd like to see? Create an issue or [tweet me](https://twitter.com/alxheller).
+
 
 🤗 Tips are welcome and help me make more!
 
