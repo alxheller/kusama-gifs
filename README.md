@@ -7,7 +7,7 @@
 # Kusama plasma
 ![kusama-plasma](https://user-images.githubusercontent.com/5248378/101353086-5574d480-3893-11eb-9eb9-f1f8ab24c102.gif)
 
-# Kusama crystal
+# Kusama resin
 ![kusama-resin](https://user-images.githubusercontent.com/5248378/101352827-ffa02c80-3892-11eb-9b53-7f714e7b1702.gif)
 
 # Kusama gold 
