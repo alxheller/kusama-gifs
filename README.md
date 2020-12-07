@@ -11,7 +11,7 @@
 ![kusama-resin](https://user-images.githubusercontent.com/5248378/101352827-ffa02c80-3892-11eb-9b53-7f714e7b1702.gif)
 
 # Kusama gold 
-![kusama-gold](https://user-images.githubusercontent.com/5248378/101335907-138b6480-387a-11eb-9c46-b1c2d9be2961.gif)
+![kusama-gold](https://user-images.githubusercontent.com/5248378/101354600-aede0300-3895-11eb-9d6f-7172b84cbd0d.gif)
 
 Are there any other gifs or styles you'd like to see? Create an issue or [tweet me](https://twitter.com/alxheller).
 
