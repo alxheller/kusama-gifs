@@ -11,7 +11,7 @@ E5HJe6GN8yKU2Xfq1TaUNHQABN2Q66SJ9vr6Y2tPgiMT9eG
 -----
 
 # 🔮 Kusama plasma
-![Kusama plasma](https://user-images.githubusercontent.com/5248378/101265403-84c9fb00-3746-11eb-9f35-c273f81db8cf.gif)
+![kusama-plasma](https://user-images.githubusercontent.com/5248378/101329133-44b36700-3871-11eb-8fd8-b01db4884981.gif)
 
 # 📐 Kusama resin
 ![kusama-resin](https://user-images.githubusercontent.com/5248378/101292184-38e28900-380e-11eb-9c07-b38cec5c6925.gif)
