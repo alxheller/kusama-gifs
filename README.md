@@ -5,10 +5,10 @@
 -----
 
 # 🔮 Kusama plasma
-![kusama-plasma](https://user-images.githubusercontent.com/5248378/101329133-44b36700-3871-11eb-8fd8-b01db4884981.gif)
+![kusama-plasma](https://user-images.githubusercontent.com/5248378/101353086-5574d480-3893-11eb-9eb9-f1f8ab24c102.gif)
 
 # 🗿 Kusama resin
-![kusama-resin](https://user-images.githubusercontent.com/5248378/101292184-38e28900-380e-11eb-9c07-b38cec5c6925.gif)
+![kusama-resin](https://user-images.githubusercontent.com/5248378/101352827-ffa02c80-3892-11eb-9b53-7f714e7b1702.gif)
 
 # ⭐ Kusama gold 
 ![kusama-gold](https://user-images.githubusercontent.com/5248378/101335907-138b6480-387a-11eb-9c46-b1c2d9be2961.gif)
